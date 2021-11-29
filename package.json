@@ -1,11 +1,11 @@
 {
-  "name": "@jimber/simple-bip39",
-  "version": "0.1.0",
+  "name": "simple-bip39",
+  "version": "0.2.0",
   "description": "npm package that implements a few bip39 functions in english.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "git@github.com:JimberSoftware/simple-bip39.git",
-  "author": "Jimber",
+  "repository": "git@github.com:mrv777/simple-bip39.git",
+  "author": "mrv777",
   "license": "Apache-2.0",
   "licenses": [
     {
